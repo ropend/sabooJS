@@ -1,2 +1,2 @@
 # SabooJS
-jQuery Micro Framework for Validating, Ajax Submitting and Responding Forms
+jQuery Micro Framework for Validating and automatic Ajax Submitting Forms.
